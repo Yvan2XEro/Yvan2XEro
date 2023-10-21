@@ -8,6 +8,8 @@
 <a href="https://twitter.com/yvan_2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yvan_2x" height="30" width="40" /></a>
 </p>
 
+[![Anurag's GitHub stats](https://kyvan-readme-stats.vercel.app/api?username=Yvan2XEro)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
@@ -23,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvan2xero&show_icons=true&locale=en&layout=compact" alt="yvan2xero" /></p>
 
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
