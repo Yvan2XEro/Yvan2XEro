@@ -3,6 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [kyvan.dev](kyvan.dev)
 
+<!--Graph-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yvan2XEro&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yvan_2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yvan_2x" height="30" width="40" /></a>
